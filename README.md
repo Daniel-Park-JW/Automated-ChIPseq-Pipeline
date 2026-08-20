@@ -16,5 +16,4 @@ The pipeline is designed for strict error handling (`set -e`) and requires a pre
 chmod +x chipseq_pipeline.sh
 ./chipseq_pipeline.sh
 
-## Environment
-Developed in a standard Linux environment using Miniconda3 (Bioconda channel) for strict dependency management.
+
